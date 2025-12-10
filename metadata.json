@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "name": "Sim card order ",
+  "description": "Place your order now "
+}
